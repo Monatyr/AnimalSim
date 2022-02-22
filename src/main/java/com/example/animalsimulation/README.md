@@ -1,0 +1,1 @@
+Program umożliwiający obserwowanie na planszy populacji zwierząt, których kierunek poruszania uwarunkowany jest genotypem każdego z nich. By przetrwać oraz mieć możliwość rozmnażania się, zwierzęta muszą jeść rośliny. Genotyp każdego nowonarodzonego dziecka tworzony jest na podstawie genotypów rodziców.
