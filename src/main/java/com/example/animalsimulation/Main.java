@@ -15,7 +15,7 @@ public class Main extends Application {
         int startEnergy = 100;
         int plantEnergy = 50;
         int startNumOfAnimals = 100;
-        int numOfSimulations = 2;
+        int numOfSimulations = 1;
 
 
         Simulation simulation = new Simulation(width,height,jungleRatio,startEnergy, plantEnergy, startNumOfAnimals);
